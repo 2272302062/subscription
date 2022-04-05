@@ -1,0 +1,26 @@
+{
+    "run_type": "client",
+    "local_addr": "127.0.0.1",
+    "local_port": 1080,
+    "remote_addr": "shcu4.forgebukkit.com",
+    "remote_port": 10411,
+    "password": [
+        "UADmus8g4zLSEK6C"
+    ],
+    "ssl": {
+        "sni": "sakura.togo724.eu",
+        "alpn": [
+        	"http2"
+        ]
+    },
+  "websocket": {
+    "enabled": true,
+    "path": "/gh76rt23vc",
+    "host": "sakura.togo724.eu"
+  },
+  "shadowsocks": {
+    "enabled": true,
+    "method": "AES-128-GCM",
+    "password": "VXzW6cRxU6Dzrk8m"
+  }
+}
