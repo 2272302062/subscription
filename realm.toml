@@ -1,0 +1,12 @@
+[log]
+level = "off"
+
+[network]
+use_udp = true
+zero_copy = true
+
+[[endpoints]]
+listen = "0.0.0.0:16934"
+remote = "127.0.0.1:443"
+listen_transport = ""
+remote_transport = ""
