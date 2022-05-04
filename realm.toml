@@ -6,7 +6,73 @@ use_udp = true
 zero_copy = true
 
 [[endpoints]]
-listen = "0.0.0.0:16934"
-remote = "127.0.0.1:443"
+listen = "0.0.0.0:45101"
+remote = "congee.togo724.eu:443"
 listen_transport = ""
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45102"
+remote = "laksa.togo724.eu:443"
+listen_transport = ""
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45103"
+remote = "hk.togo724.eu:443"
+listen_transport = ""
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45105"
+remote = "satay.togo724.eu:443"
+listen_transport = ""
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45201"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts"
+remote = "congee.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45202"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts"
+remote = "laksa.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45203"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts"
+remote = "hk.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45205"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts"
+remote = "satay.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45301"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts;tls;servername=fjerx.edu"
+remote = "congee.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45302"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts;tls;servername=fjerx.edu"
+remote = "laksa.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45303"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts;tls;servername=fjerx.edu"
+remote = "hk.togo724.eu:443"
+remote_transport = ""
+
+[[endpoints]]
+listen = "0.0.0.0:45305"
+listen_transport = "ws;host=o3ff.net;path=/snwazfcts;tls;servername=fjerx.edu"
+remote = "satay.togo724.eu:443"
 remote_transport = ""
