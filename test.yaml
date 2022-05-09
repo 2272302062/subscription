@@ -118,25 +118,26 @@ proxy-groups:
     interval: 300
 
 rules:
-  - RULE-SET,applications,DIRECT
-  - DOMAIN,clash.razord.top,DIRECT
-  - DOMAIN,yacd.haishan.me,DIRECT
-  - DOMAIN,ip138.com, DIRECT
-  - RULE-SET,private,DIRECT
-  - RULE-SET,reject,REJECT
-  - RULE-SET,icloud,AUTO
-  - RULE-SET,apple,AUTO
-  - RULE-SET,google,AUTO
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
-  - RULE-SET,telegramcidr,AUTO
+  - RULE-SET,applications,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,reject,REJECT
+  - DOMAIN,ip138.com, DIRECT
   - RULE-SET,netflix,SG-AUTO
   - RULE-SET,netflixcidr,SG-AUTO
   - RULE-SET,netflixadd,SG-AUTO
+  - RULE-SET,icloud,AUTO
+  - RULE-SET,apple,AUTO
+  - RULE-SET,google,AUTO
+  - RULE-SET,youtube,AUTO
+  - RULE-SET,telegramcidr,AUTO
   - RULE-SET,proxy,AUTO
-  - GEOIP,LAN,DIRECT
-  - GEOIP,CN,DIRECT
   - MATCH,AUTO
 
 rule-providers:
