@@ -53,8 +53,8 @@ proxies:
 
   - name: "JP-1"
     type: vmess
-    server: 103.56.60.30
-    port: 45406
+    server: 117.164.185.145
+    port: 11747
     uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
     alterId: 0
     cipher: auto
