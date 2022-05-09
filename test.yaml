@@ -135,7 +135,7 @@ rules:
   - RULE-SET,netflixcidr,SG-AUTO
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,AUTO
+  - MATCH,SG-AUTO
 
 rule-providers:
   reject:
