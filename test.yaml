@@ -127,17 +127,15 @@ rules:
   - RULE-SET,icloud,AUTO
   - RULE-SET,apple,AUTO
   - RULE-SET,google,AUTO
-  - RULE-SET,proxy,SG-AUTO
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
   - RULE-SET,telegramcidr,AUTO
-  - RULE-SET,youtube,AUTO
   - RULE-SET,netflix,SG-AUTO
   - RULE-SET,netflixcidr,SG-AUTO
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,SG-AUTO
+  - MATCH,AUTO
 
 rule-providers:
   reject:
