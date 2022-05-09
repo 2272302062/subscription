@@ -50,6 +50,29 @@ proxies:
     tls: true
     skip-cert-verify: false
     servername: satay.togo724.eu
+ 
+  - name: "SG-3"
+    type: vmess
+    server: 117.164.185.145
+    port: 14876
+    uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: noodle.togo724.eu
+    
+    
+  - name: "SG-4"
+    type: vmess
+    server: relay.gzbgp.entrance1-fp.icu
+    port: 25067
+    uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: noodle.togo724.eu
 
   - name: "JP-1"
     type: vmess
@@ -102,6 +125,8 @@ proxy-groups:
     proxies:
       - SG-1
       - SG-2
+      - SG-3
+      - SG-4
       - HK-1
       - HK-2
       - JP-1
