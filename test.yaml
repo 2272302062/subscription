@@ -53,8 +53,8 @@ proxies:
 
   - name: "JP-1"
     type: vmess
-    server: 117.164.185.145
-    port: 11747
+    server: relay.ahbgp.entrance1-fp.icu
+    port: 25024
     uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
     alterId: 0
     cipher: auto
