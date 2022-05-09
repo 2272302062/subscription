@@ -133,6 +133,8 @@ rules:
   - RULE-SET,cncidr,DIRECT
   - RULE-SET,telegramcidr,AUTO
   - RULE-SET,youtube,AUTO
+  - RULE-SET,netflix,SG-AUTO
+  - RULE-SET,netflixcidr,SG-AUTO
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,SG-AUTO
