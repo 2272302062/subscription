@@ -109,6 +109,14 @@ proxy-groups:
     url: "https://www.youtube.com"
     interval: 300
 
+  - name: "SG-AUTO"
+    type: url-test
+    proxies:
+      - SG-1
+      - SG-2
+    url: "https://www.youtube.com"
+    interval: 300
+
 rules:
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
@@ -116,8 +124,8 @@ rules:
   - DOMAIN,ip138.com, DIRECT
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
-  - RULE-SET,icloud,DIRECT
-  - RULE-SET,apple,DIRECT
+  - RULE-SET,icloud,AUTO
+  - RULE-SET,apple,AUTO
   - RULE-SET,google,AUTO
   - RULE-SET,proxy,AUTO
   - RULE-SET,direct,DIRECT
@@ -125,11 +133,9 @@ rules:
   - RULE-SET,cncidr,DIRECT
   - RULE-SET,telegramcidr,AUTO
   - RULE-SET,youtube,AUTO
-  - RULE-SET,netflix,SG-1
-  - RULE-SET,netflixcidr,SG-1
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,AUTO
+  - MATCH,SG-AUTO
 
 rule-providers:
   reject:
