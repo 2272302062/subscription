@@ -96,6 +96,29 @@ proxies:
     skip-cert-verify: false
     servername: sakura.togo724.eu
 
+
+  - name: "JP-3"
+    type: vmess
+    server: shcu4.forgebukkit.com
+    port: 45409
+    uuid: 57dba321-0534-f697-afed-c7aea2c0d9f3
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: tempura.togo724.eu
+ 
+  - name: "JP-4"
+    type: vmess
+    server: shcu.01.211129.xyz
+    port: 48040
+    uuid: 57dba321-0534-f697-afed-c7aea2c0d9f3
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: tempura.togo724.eu
+    
   - name: "HK-1"
     type: vmess
     server: 120.197.130.90
@@ -127,19 +150,21 @@ proxy-groups:
       - SG-2
       - SG-3
       - SG-4
-      - HK-1
-      - HK-2
       - JP-1
       - JP-2
+      - JP-3
+      - JP-4
     url: "https://www.youtube.com"
     interval: 300
 
-  - name: "SG-AUTO"
+  - name: "NF-AUTO"
     type: url-test
     proxies:
       - SG-1
       - SG-2
-    url: "https://www.youtube.com"
+      - HK-1
+      - HK-2
+    url: "https://www.netflix.com"
     interval: 300
 
 rules:
