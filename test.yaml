@@ -110,8 +110,8 @@ proxies:
  
   - name: "JP-4"
     type: vmess
-    server: shcu.01.211129.xyz
-    port: 48040
+    server: relay.shbgp.entrance1-fp.icu
+    port: 45112
     uuid: 57dba321-0534-f697-afed-c7aea2c0d9f3
     alterId: 0
     cipher: auto
