@@ -179,9 +179,9 @@ rules:
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   - DOMAIN,ip138.com, DIRECT
-  - RULE-SET,netflix,SG-AUTO
-  - RULE-SET,netflixcidr,SG-AUTO
-  - RULE-SET,netflixadd,SG-AUTO
+  - RULE-SET,netflix,NF-AUTO
+  - RULE-SET,netflixcidr,NF-AUTO
+  - RULE-SET,netflixadd,NF-AUTO
   - RULE-SET,icloud,AUTO
   - RULE-SET,apple,AUTO
   - RULE-SET,google,AUTO
