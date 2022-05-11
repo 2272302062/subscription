@@ -9,6 +9,7 @@ vmess=117.164.185.145:14876, method=none, password=59c1fdf3-2582-0ea8-5c90-74c36
 vmess=relay.gza.entrance1-fp.icu:45102, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=kebun.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：广港链路A
 vmess=120.197.130.90:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：深圳移动-DMIT
 vmess=relay.gzbgppro.entrance1-fp.icu:45090, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广港BGP
+vmess=120.232.193.9:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广港-碳云NAT
 vmess=relay.gzbgppro.entrance1-fp.icu:45060, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广港BGP
 vmess=183.240.124.144:25096, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广港-猫猫183
 vmess=183.232.48.176:50968, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广港-碳云183
