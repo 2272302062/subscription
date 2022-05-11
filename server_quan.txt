@@ -1,0 +1,1 @@
+vmess=120.197.130.90:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=test1
