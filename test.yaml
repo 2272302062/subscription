@@ -65,8 +65,8 @@ proxies:
     
   - name: "SG-4"
     type: vmess
-    server: relay.gzbgp.entrance1-fp.icu
-    port: 25067
+    server: relay.gza.entrance1-fp.icu
+    port: 45102
     uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
     alterId: 0
     cipher: auto
