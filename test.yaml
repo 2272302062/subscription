@@ -96,29 +96,6 @@ proxies:
     skip-cert-verify: false
     servername: sakura.togo724.eu
 
-
-  - name: "JP-3"
-    type: vmess
-    server: shcu4.forgebukkit.com
-    port: 45409
-    uuid: 57dba321-0534-f697-afed-c7aea2c0d9f3
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: tempura.togo724.eu
- 
-  - name: "JP-4"
-    type: vmess
-    server: relay.shbgp.entrance1-fp.icu
-    port: 45112
-    uuid: 57dba321-0534-f697-afed-c7aea2c0d9f3
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: tempura.togo724.eu
-    
   - name: "HK-1"
     type: vmess
     server: 120.197.130.90
@@ -152,8 +129,6 @@ proxy-groups:
       - SG-4
       - JP-1
       - JP-2
-      - JP-3
-      - JP-4
     url: "https://www.youtube.com"
     interval: 300
 
