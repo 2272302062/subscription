@@ -1,6 +1,6 @@
 vmess=shcu4.forgebukkit.com:45406, method=none, password=fb48b350-33e7-90d4-f1d5-e81e0ff4caa3, obfs=over-tls, obfs-host=sakura.togo724.eu, fast-open=false, udp-relay=false, tag=东京Linode：上海9929
 vmess=222.186.46.10:45406, method=none, password=fb48b350-33e7-90d4-f1d5-e81e0ff4caa3 , obfs=over-tls, obfs-host=sakura.togo724.eu, fast-open=false, udp-relay=false, tag=东京Linode：镇江三线
-vmess=relay.ahbgp.entrance1-fp.icu:25024, method=none, password=fb48b350-33e7-90d4-f1d5-e81e0ff4caa4, obfs=over-tls, obfs-host=sakura.togo724.eu, fast-open=false, udp-relay=false, tag=东京Linode：安徽BGP
+vmess=relay.ahbgp.entrance1-fp.icu:25024, method=none, password=fb48b350-33e7-90d4-f1d5-e81e0ff4caa3, obfs=over-tls, obfs-host=sakura.togo724.eu, fast-open=false, udp-relay=false, tag=东京Linode：安徽BGP
 vmess=relay.gzbgppro.entrance1-fp.icu:45002, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：广港BGP
 vmess=183.232.48.176:56191, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：广港-碳云183
 vmess=222.186.46.10:45402, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：镇江-AWS
