@@ -65,14 +65,14 @@ proxies:
     
   - name: "SG-4"
     type: vmess
-    server: relay.gza.entrance1-fp.icu
-    port: 45102
-    uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
+    server: 116.162.32.154
+    port: 25004
+    uuid: 80b0cde6-2efc-ce01-414f-27b6c66c502e
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: noodle.togo724.eu
+    servername: laksa.togo724.eu
 
   - name: "JP-1"
     type: vmess
