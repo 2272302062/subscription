@@ -65,14 +65,14 @@ proxies:
     
   - name: "SG-4"
     type: vmess
-    server: 116.162.32.154
-    port: 25004
-    uuid: 80b0cde6-2efc-ce01-414f-27b6c66c502e
+    server: 117.185.229.209
+    port: 53056
+    uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: laksa.togo724.eu
+    servername: noodle.togo724.eu
 
   - name: "JP-1"
     type: vmess
@@ -95,7 +95,18 @@ proxies:
     tls: true
     skip-cert-verify: false
     servername: sakura.togo724.eu
-
+    
+   - name: "JP-3"
+    type: vmess
+    server: 103.56.60.30
+    port: 45406
+    uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: sakura.togo724.eu
+  
   - name: "HK-1"
     type: vmess
     server: 120.197.130.90
@@ -109,8 +120,8 @@ proxies:
 
   - name: "HK-2"
     type: vmess
-    server: 103.56.60.30
-    port: 45401
+    server: 117.185.229.209
+    port: 49878
     uuid: cdf64576-4d08-7380-6730-c5f98e860dd5
     alterId: 0
     cipher: auto
@@ -118,6 +129,16 @@ proxies:
     skip-cert-verify: false
     servername: congee.togo724.eu
 
+  - name: "HK-3"
+    type: vmess
+    server: 112.5.37.223
+    port: 45401
+    uuid: cdf64576-4d08-7380-6730-c5f98e860dd5
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: congee.togo724.eu
 
 proxy-groups:
   - name: "AUTO"
@@ -129,6 +150,10 @@ proxy-groups:
       - SG-4
       - JP-1
       - JP-2
+      - JP-3
+      - HK-1
+      - HK-2
+      - HK-3
     url: "https://www.youtube.com"
     interval: 300
 
@@ -139,6 +164,7 @@ proxy-groups:
       - SG-2
       - HK-1
       - HK-2
+      - HK-3
     url: "https://www.netflix.com"
     interval: 300
 
