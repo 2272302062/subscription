@@ -61,8 +61,7 @@ proxies:
     tls: true
     skip-cert-verify: false
     servername: noodle.togo724.eu
-    
-    
+
   - name: "SG-4"
     type: vmess
     server: 117.185.229.209
