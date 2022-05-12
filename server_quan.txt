@@ -21,4 +21,4 @@ vmess=183.232.48.176:50968, method=none, password=cdf64576-4d08-7380-6730-c5f98e
 vmess=120.232.193.9:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广港-广移NAT
 vmess=shcu4.forgebukkit.com:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：上海9929-DMIT
 vmess=120.197.130.90:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：深圳移动-DMIT
-vmess=117.185.229.209:49878, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd6, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：上海移动
+vmess=117.185.229.209:49878, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：上海移动
