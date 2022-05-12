@@ -95,8 +95,8 @@ proxies:
     tls: true
     skip-cert-verify: false
     servername: sakura.togo724.eu
-    
-   - name: "JP-3"
+  
+  - name: "JP-3"
     type: vmess
     server: 103.56.60.30
     port: 45406
