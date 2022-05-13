@@ -8,9 +8,9 @@ vmess=112.5.37.223:45402, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c
 vmess=222.186.46.10:45402, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：镇江联通-AWS
 vmess=116.162.32.154:25004, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：湖南联通-AWS
 vmess=117.185.229.209:47855, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：上海移动
-vmess=117.164.185.145:14876, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=kebun.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：江西CN2电信
-vmess=112.5.37.223:45407, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=kebun.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：泉州移动-微云NAT
-vmess=117.185.229.209:53056, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=kebun.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：上海移动
+vmess=117.164.185.145:14876, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=noodle.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：江西CN2电信
+vmess=112.5.37.223:45407, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=noodle.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：泉州移动-微云NAT
+vmess=117.185.229.209:53056, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=noodle.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：上海移动
 vmess=120.197.130.90:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：深圳移动-DMIT
 vmess=relay.gzbgppro.entrance1-fp.icu:45090, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广港BGP
 vmess=120.232.193.9:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广州移动120-碳云NAT
