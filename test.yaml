@@ -86,17 +86,6 @@ proxies:
 
   - name: "JP-2"
     type: vmess
-    server: shcu4.forgebukkit.com
-    port: 45406
-    uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
-    alterId: 0
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: sakura.togo724.eu
-  
-  - name: "JP-3"
-    type: vmess
     server: 103.56.60.30
     port: 45406
     uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
