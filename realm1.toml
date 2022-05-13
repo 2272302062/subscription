@@ -1,0 +1,12 @@
+[log]
+level = "off"
+
+[network]
+use_udp = true
+zero_copy = true
+
+[[endpoints]]
+listen = "0.0.0.0:45406"
+listen_transport = "ws;host=xinhuanet.com;path=/snwazfcts;tls;servername=news.cn"
+remote = "sakura.togo724.eu:2898"
+remote_transport = ""
