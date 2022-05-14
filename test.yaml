@@ -97,8 +97,8 @@ proxies:
   
   - name: "JP-3"
     type: vmess
-    server: 112.5.37.223
-    port: 45406
+    server: shbgp.gia.wiki
+    port: 10013
     uuid: fb48b350-33e7-90d4-f1d5-e81e0ff4caa3
     alterId: 0
     cipher: auto
@@ -109,35 +109,35 @@ proxies:
   - name: "HK-1"
     type: vmess
     server: 120.197.130.90
-    port: 45401
-    uuid: cdf64576-4d08-7380-6730-c5f98e860dd5
+    port: 45411
+    uuid: a84b09d8-79c6-1014-5622-faf1e098b50c
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: congee.togo724.eu
+    servername: dmhk.togo724.eu
 
   - name: "HK-2"
     type: vmess
     server: 117.185.229.209
     port: 49878
-    uuid: cdf64576-4d08-7380-6730-c5f98e860dd5
+    uuid: a84b09d8-79c6-1014-5622-faf1e098b50c
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: congee.togo724.eu
+    servername: dmhk.togo724.eu
 
   - name: "HK-3"
     type: vmess
     server: 112.5.37.223
-    port: 45401
-    uuid: cdf64576-4d08-7380-6730-c5f98e860dd5
+    port: 45411
+    uuid: a84b09d8-79c6-1014-5622-faf1e098b50c
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: congee.togo724.eu
+    servername: dmhk.togo724.eu
 
 proxy-groups:
   - name: "AUTO"
