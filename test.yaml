@@ -161,9 +161,6 @@ proxy-groups:
     proxies:
       - SG-1
       - SG-2
-      - HK-1
-      - HK-2
-      - HK-3
     url: "https://www.netflix.com"
     interval: 300
 
