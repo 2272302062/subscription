@@ -53,8 +53,8 @@ proxies:
  
   - name: "SG-3"
     type: vmess
-    server: dgcn.gia.wiki
-    port: 10381
+    server: szct.9218561.xyz
+    port: 51021
     uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
     alterId: 0
     cipher: auto
