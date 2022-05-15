@@ -2,7 +2,7 @@ vmess=shcu4.forgebukkit.com:45406, method=none, password=fb48b350-33e7-90d4-f1d5
 vmess=222.186.46.10:45406, method=none, password=fb48b350-33e7-90d4-f1d5-e81e0ff4caa3 , obfs=over-tls, obfs-host=sakura.togo724.eu, fast-open=false, udp-relay=false, tag=日本东京Linode：沪日隧道
 vmess=shcu4.forgebukkit.com:45410, method=none, password=4ac905d7-34f0-3169-e8e8-110d3de2193b, obfs=over-tls, obfs-host=ramen.togo724.eu, fast-open=false, udp-relay=false, tag=日本大阪BWH：上海联通9929
 vmess=116.162.32.154:25157, method=none, password=4ac905d7-34f0-3169-e8e8-110d3de2193b, obfs=over-tls, obfs-host=ramen.togo724.eu, fast-open=false, udp-relay=false, tag=日本大阪BWH：湖南BGP
-vmess=shcu4.forgebukkit.com:45416, method=none, password=56d93896-b8db-28ca-9544-6ebdee085eec, obfs=over-tls, obfs-host=tokyo.togo724.eu, fast-open=false, udp-relay=false, tag=日本东京Oracle：上海联通9929
+vmess=116.162.32.154:45032, method=none, password=56d93896-b8db-28ca-9544-6ebdee085eec, obfs=over-tls, obfs-host=tokyo.togo724.eu, fast-open=false, udp-relay=false, tag=日本东京Oracle：湘日隧道
 vmess=relay.ahbgp.entrance1-fp.icu:45054, method=none, password=56d93896-b8db-28ca-9544-6ebdee085eec, obfs=over-tls, obfs-host=tokyo.togo724.eu, fast-open=false, udp-relay=false, tag=日本东京Oracle：皖日隧道
 vmess=relay.gzbgppro.entrance1-fp.icu:45002, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：广港BGP
 vmess=183.232.48.176:56191, method=none, password=80b0cde6-2efc-ce01-414f-27b6c66c502e, obfs=over-tls, obfs-host=laksa.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡Oracle：广州移动-碳云NAT
