@@ -1,0 +1,30 @@
+[log]
+level = "off"
+
+[network]
+use_udp = true
+zero_copy = true
+
+[[endpoints]]
+listen = "0.0.0.0:45401"
+listen_transport = ""
+remote = "103.135.251.82:45401"
+remote_transport = "ws;host=xinhuanet.com;path=/snwazfcts;tls;sni=news.cn;insecure"
+
+[[endpoints]]
+listen = "0.0.0.0:45402"
+listen_transport = ""
+remote = "129.150.50.48:45402"
+remote_transport = "ws;host=xinhuanet.com;path=/snwazfcts;tls;sni=news.cn;insecure"
+
+[[endpoints]]
+listen = "0.0.0.0:45405"
+listen_transport = ""
+remote = "103.135.251.82:45405"
+remote_transport = "ws;host=xinhuanet.com;path=/snwazfcts;tls;sni=news.cn;insecure"
+
+[[endpoints]]
+listen = "0.0.0.0:45408"
+listen_transport = ""
+remote = "188.166.180.189:45408"
+remote_transport = "ws;host=xinhuanet.com;path=/snwazfcts;tls;sni=news.cn;insecure"
