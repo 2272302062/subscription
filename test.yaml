@@ -130,8 +130,8 @@ proxies:
 
   - name: "HK-3"
     type: vmess
-    server: 112.5.37.223
-    port: 45411
+    server: 183.240.124.144
+    port: 25186
     uuid: a84b09d8-79c6-1014-5622-faf1e098b50c
     alterId: 0
     cipher: auto
