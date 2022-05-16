@@ -53,9 +53,9 @@ proxies:
  
   - name: "SG-3"
     type: vmess
-    server: szct.9218561.xyz
-    port: 51021
-    uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
+    server: shcu.forgebukkit.com
+    port: 13388
+    uuid: 69b9ffdd-c8e5-285e-60ed-a616bada17ea
     alterId: 0
     cipher: auto
     tls: true
