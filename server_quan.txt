@@ -12,9 +12,9 @@ vmess=dgcn.gia.wiki:10378, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c
 vmess=gzbgp.gia.wiki:30043, method=none, password=59c1fdf3-2582-0ea8-5c90-74c367c8803c, obfs=over-tls, obfs-host=noodle.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡DO：广港隧道
 vmess=120.197.130.90:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：深圳移动-DMIT
 vmess=relay.gzbgppro.entrance1-fp.icu:45090, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广港BGP
-vmess=222.186.46.10:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：镇江三线
-vmess=120.232.193.9:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广州移动120-碳云NAT
+vmess=222.186.46.10:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：镇江三线-AWS
+vmess=120.232.193.9:45405, method=none, password=69b9ffdd-c8e5-285e-60ed-a616bada17ea, obfs=over-tls, obfs-host=satay.togo724.eu, fast-open=false, udp-relay=false, tag=新加坡OVH：广州移动-碳云NAT
 vmess=relay.gzbgppro.entrance1-fp.icu:45060, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广港BGP
-vmess=120.232.193.9:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广州移动120-碳云NAT
+vmess=120.232.193.9:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：广州移动-碳云NAT
 vmess=120.197.130.90:45401, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：深圳移动-微云NAT
 vmess=dgcn.gia.wiki:10382, method=none, password=cdf64576-4d08-7380-6730-c5f98e860dd5, obfs=over-tls, obfs-host=congee.togo724.eu, fast-open=false, udp-relay=false, tag=香港绿云：莞港隧道-META
