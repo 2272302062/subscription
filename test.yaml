@@ -60,12 +60,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: false
-    servername: noodle.togo724.eu
+    servername: satay.togo724.eu
 
   - name: "SG-4"
     type: vmess
-    server: 117.185.229.209
-    port: 53056
+    server: 120.233.185.238
+    port: 45408
     uuid: 59c1fdf3-2582-0ea8-5c90-74c367c8803c
     alterId: 0
     cipher: auto
